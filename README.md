@@ -3,6 +3,8 @@
   <h3>Python backend developer from Tula, Russia</h3>
 </div>
 
+![](https://komarev.com/ghpvc/?username=Acemore&color=orange&style=plastic)
+
 ### About me
 
 - Know about my experiences [CV](https://career.habr.com/acemore)
